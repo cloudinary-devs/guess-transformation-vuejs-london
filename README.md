@@ -16,7 +16,7 @@
 
 
 
-**Source \#2:** [**https://res.cloudinary.com/demo/image/upload/downton-abbey-logo.jpg**](https://res.cloudinary.com/demo/image/upload/downton-abbey-logo.jpg)\*\*\*\*
+**Source image \#2:** [**https://res.cloudinary.com/demo/image/upload/downton-abbey-logo.jpg**](https://res.cloudinary.com/demo/image/upload/downton-abbey-logo.jpg)\*\*\*\*
 
 ![Downton Abbey Logo](.gitbook/assets/downtown-abbey-logo.jpg)
 
