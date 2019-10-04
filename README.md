@@ -18,11 +18,11 @@
 
 **Source \#2:** [**https://res.cloudinary.com/demo/image/upload/downton-abbey-logo.jpg**](https://res.cloudinary.com/demo/image/upload/downton-abbey-logo.jpg)\*\*\*\*
 
-![Logo Image](.gitbook/assets/downtown-abbey-logo.jpg)
+![Downton Abbey Logo](.gitbook/assets/downtown-abbey-logo.jpg)
 
 ## **W**arm-Up Transformation Example:
 
-
+[**https://res.cloudinary.com/demo/image/upload/e\_tint:50:blue/l\_downton-abbey-logo,g\_south\_west,w\_250,h\_200/downton-abbey-1.jpg**](https://res.cloudinary.com/demo/image/upload/e_tint:50:blue/l_downton-abbey-logo,g_south_west,w_250,h_200/downton-abbey-1.jpg)\*\*\*\*
 
 ![Target Image \(Example\)](.gitbook/assets/downton-abbey-1.jpg)
 
